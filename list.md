@@ -5,6 +5,7 @@
    - some great book recommendations in here. 
 4. https://interviewing.io/guides/system-design-interview
    - this one is also quite long but a really good resource for system design interviews
+   - covers a lot of detail.
 5. algomonster
    - website is a great way to build DSA foundations
    - their youtube is also a gold mine.
