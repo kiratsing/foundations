@@ -14,7 +14,7 @@
    - builds foundations even if you know nothing about AI/ML
 7. https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo
    - CS Crash Course
-   - great series from how computers first starter to where we are today.
+   - great series from how computers first started to where we are today.
    - understanding yesterday is a great way to see where we are headed and why.
 
 At the end of the day, read, make stuff, and remember: no effort is ever wasted. It will all come back full circle.
