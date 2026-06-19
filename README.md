@@ -8,7 +8,7 @@ a little bit about me: I have been a DevOps engineer for the past 5 years. I hav
 sense of imposter syndrome and recently learned that imposter syndrome is just your body
 pushing you to greatness. It is a cry to get stronger, to grow, & to learn.
 
-if you don't feel the imposter syndrome, you either are delusional or simiply the best at
+if you don't feel the imposter syndrome, you either too early in your journey to realize the vast knowledge you don't possess or simiply the best at
 whatever it is you do, most likely the former.
 
 
