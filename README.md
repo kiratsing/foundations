@@ -40,4 +40,7 @@ whatever it is you do, most likely the former.
 #### great series from how computers first started to where we are today.
 #### understanding yesterday is a great way to see where we are headed and why.
 -------------------------------------------------------------
+8. Coding challenges:
+#### https://codingchallenges.substack.com/p/coding-challenge-124-du?r=gjveo&utm_campaign=post&utm_medium=web&triedRedirect=true
+-------------------------------------------------------------
 #### At the end of the day, read, make stuff, and remember: no effort is ever wasted. It will all come back full circle.
